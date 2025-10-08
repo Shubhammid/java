@@ -8,7 +8,7 @@ class Area {
         System.out.println("Area B");
     }
 }
-public class Example {
+public class Problem1 {
     static void fun1(){
         System.out.println("A");
     }
