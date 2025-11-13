@@ -1,18 +1,12 @@
 package series;
 
-import java.util.Scanner;
-
-//1.Get Input from the User
+//1.Java Program to Multiply two Floating-Point Numbers
 
 public class Day1 {
     public static void main(String[] args) {
-        System.out.println("Enter the string");
-        Scanner sc =new Scanner(System.in);
-
-        String s1 = sc.nextLine();
-        System.out.println(s1);
-
-        int a = sc.nextInt();
-        System.out.println(a);
+        float f1 = 1.5f;
+        float f2 = 3.8f;
+        float p = f1 * f2;
+        System.out.println("The product is: " +p);
     }
 }
