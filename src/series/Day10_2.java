@@ -1,7 +1,13 @@
 package series;
 
 //Java Program to Print Reverse Pyramid Star Pattern
-
+//*************
+// ***********
+//  *********
+//   *******
+//    *****
+//     ***
+//      *
 public class Day10_2 {
     public static void main(String[] args) {
         int number = 7;
