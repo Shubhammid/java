@@ -19,7 +19,7 @@ Each file contains a self-contained Java program solving a specific DSA problem.
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java 23+
+- **Language:** Java 23
 - **Editor:** IntelliJ IDEA
 - **Version Control:** Git & GitHub
 - **Build/Run:** javac & java
