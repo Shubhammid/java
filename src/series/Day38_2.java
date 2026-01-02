@@ -16,7 +16,7 @@ public class Day38_2 {
     public static void main(String[] args) {
         int[] nums = {0, 0, 1, 1, 1, 2, 2, 3};
         int length = removeDuplicates(nums);
-        System.out.println("Length after removing duplicates: " + length);
+        System.out.println("Length after removing duplicate: " + length);
         System.out.print("Array after removal: ");
         for (int i = 0; i < length; i++) {
             System.out.print(nums[i] + " ");
