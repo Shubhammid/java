@@ -9,7 +9,7 @@ Every day, I solve new DSA problems, write clean and efficient code, and track m
 ## 🧭 About This Repository
 
 This repository is focused on improving:
-- Problem-solving skills using **Java**
+- Problem-solving skill using **Java**
 - Understanding of **Data Structures & Algorithms**
 - Code quality, structure, and documentation
 
