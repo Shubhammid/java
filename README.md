@@ -1,4 +1,4 @@
-# 🚀 Java DSA Daily Practice
+# 🚀 Java DSA Daily Practices
 
 Welcome to my **Java Daily Coding Repository** — a personal journey to master **Data Structures and Algorithms** using Java 💻.
 
