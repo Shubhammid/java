@@ -2,7 +2,7 @@
 
 Welcome to my **Java Daily Coding Repository** — a personal journey to master **Data Structures and Algorithms** using Java 💻.
 
-Every day, I solve new DSA problems, write clean and efficient code, and track my consistency publicly through this repository.
+Every day,I solve new DSA problems, write clean and efficient code, and track my consistency publicly through this repository.
 
 ---
 
